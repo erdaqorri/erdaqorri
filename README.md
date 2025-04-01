@@ -1,9 +1,4 @@
-## Hi there 👋
-
-
-**erdaqorri/erdaqorri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hello/Shalom there 👋
 
 - 🔭 I’m currently working on modelling the 3D protein structures of cancer missense variants using AlphaFold2 and developing novel  ...
 - 🌱 I’m currently learning circRNA identification algorithms and structural biology
