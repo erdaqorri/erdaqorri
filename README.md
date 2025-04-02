@@ -83,17 +83,15 @@
   </tbody>
 </table>
 
-- **Contact me:**
+<h3>Contact me:</h3>
 <table>
   <tbody>
     <tr>
-      <td align="center" style="padding-right: 30px;">
-        <img height=60px src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/">
-      </td> 
+      <td align="center">
+        <a href="mailto:alex.kouri110@gmail.com">
+          <img height=60px src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+        </a>
       </td>
-    </tr>
-  </tbody>
-</table>
     </tr>
   </tbody>
 </table>
