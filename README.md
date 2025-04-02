@@ -8,68 +8,77 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:
 
-## Bioinformatics and Scientific Knowledge and Skills
-
-- **Bioinformatics skills**
-- Transcriptomics
-- Genomics
-- Single-Cell Transcriptomics (scRNA-10X Genomics)
-- Protein Modelling (AlphaFold2, RoseTTAFold)
-- High-Performance Computing
-- Machine learning feature development
+## Bioinformatics Skills
+- Wild type and mutant structure protein modeling (AlphaFold2, ParaFold, RoseTTAFold)
+- Transcriptomics (RNA-Seq & Single-Cell RNA-Seq)
+- circRNA identification
+- Genomics and variant calling
 
 
-
-## Computational skills
-
-- **Programming Languages**
-<table>
-  <tbody>
-    <tr>
-      <td align="center" style="padding-right: 30px;">
-        <img height=60px src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black/">
-      </td>   
-     <td align="center" style="padding-right: 30px;">
-        <img height=60px src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white/">
-      </td>  
-      <td align="center" style="padding-right: 30px;">
-        <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white"/>
-      </td>
-      <td align="center">
-        <img alt="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white/">
-      </td>
-      <td align="center">
-        <img alt="center" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white/">
-      </td>
-    </tr>
-  </tbody>
-</table>
-    </tr>
-  </tbody>
-</table>
-
-- **Machine Learning**
 <table>
   <tbody>
     <tr>
       <td align="center" style="padding-right: 20px;">
-        <img height=60px src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white/">
-      </td>   
-     <td align="center" style="padding-right: 30px;">
-        <img height=60px src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white/">
-      </td>  
-      <td align="center" style="padding-right: 30px;">
-        <img alt=60px src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white/">
+        <img height=100px src="https://raw.githubusercontent.com/erdaqorri/erdaqorri/main/images/201201_AlphaFold_002.png">
+      </td>
+      <td align="center" style="padding-right: 20px;">
+        <img height=100px src="https://raw.githubusercontent.com/erdaqorri/erdaqorri/main/images/RoseTTAfold_IL12R_v3_text.jpeg">
+      </td>
+      <td align="center" style="padding-right: 20px;">
+        <img height=100px src="https://raw.githubusercontent.com/erdaqorri/erdaqorri/main/images/SeuratV5.png">
       </td>
       <td align="center">
-        <img alt="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white/">
-      </td>
-      <td align="center">
-        <img alt="center" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white/">
+        <img height=100px src="https://raw.githubusercontent.com/erdaqorri/erdaqorri/main/images/tidyverse-icons.png">
       </td>
     </tr>
   </tbody>
 </table>
+
+## Computational skills
+<h2>1. Preferred OS</h2>
+<table>
+  <tbody>
+    <tr>
+      <td align="center" style="padding-right: 20px;">
+        <img height=60px src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+      </td>
+      <td align="center">
+        <img height=60px src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>2. Programming Languages</h2>
+<table>
+  <tbody>
+    <tr>
+      <td align="center" style="padding-right: 20px;">
+        <img height=60px src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white">
+      </td>
+      <td align="center" style="padding-right: 20px;">
+        <img height=60px src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+      </td>
+      <td align="center">
+        <img height=60px src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>3. Machine Learning Frameworks</h2>
+<table>
+  <tbody>
+    <tr>
+      <td align="center" style="padding-right: 20px;">
+        <img height=60px src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white">
+      </td>
+      <td align="center" style="padding-right: 20px;">
+        <img height=60px src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+      </td>
+      <td align="center">
+        <img height=60px src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+      </td>
     </tr>
   </tbody>
 </table>
@@ -80,18 +89,7 @@
     <tr>
       <td align="center" style="padding-right: 30px;">
         <img height=60px src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/">
-      </td>   
-     <td align="center" style="padding-right: 30px;">
-        <img height=60px src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white/">
-      </td>  
-      <td align="center" style="padding-right: 30px;">
-        <img alt=60px src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white/">
-      </td>
-      <td align="center">
-        <img alt="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white/">
-      </td>
-      <td align="center">
-        <img alt="center" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white/">
+      </td> 
       </td>
     </tr>
   </tbody>
