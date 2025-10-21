@@ -1,4 +1,4 @@
-## Hello/Shalom 👋
+## Hello/Ciao 👋
 
 - 🔭 I’m currently working on modelling the 3D protein structures of cancer missense variants using AlphaFold2 and developing novel machine learning models
 - 🌱 I’m currently learning circRNA identification algorithms and structural biology
